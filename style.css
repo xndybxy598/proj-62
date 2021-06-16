@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: black;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    background: linear-gradient(to bottom right, aliceblue 0%, darkslateblue 100%);
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+
+}
+
+#espeon {
+    width: 400px !important;
+    height: 400px;
+}
+
+.links {
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+}
+
+.line {
+    height: 10px;
+    color: aliceblue;
+    width: 100px;
+    margin: 8px auto;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    width: 350px;
+    margin-left: 585px;
+}
+
+.section-style {
+    background-color: cadetblue;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+img {
+    width: 250px;
+}
+
+h1 {
+    color: black;
+
+}
+
+h2 {
+    color: black;
+
+}
+
+#myCarousel {
+    background-color: cadetblue;
+}
